@@ -46,7 +46,7 @@ rtp://239.49.8.56:9826
 #EXTINF:-1, CCTV音乐HD
 rtp://239.49.0.128:8000
 
-#EXTINF:-1, CCTV164K（SDR）
+#EXTINF:-1, CCTV164K(SDR)
 rtp://239.49.0.109:8000
 
 #EXTINF:-1, CCTV16HD
@@ -205,16 +205,16 @@ rtp://239.49.0.205:8000
 #EXTINF:-1, 文物宝库HD
 rtp://239.49.0.209:8000
 
-#EXTINF:-1, 睛彩竞技HD（限免）
+#EXTINF:-1, 睛彩竞技HD(限免)
 rtp://239.49.8.39:8000
 
-#EXTINF:-1, 睛彩篮球HD（限免）
+#EXTINF:-1, 睛彩篮球HD(限免)
 rtp://239.49.8.42:8000
 
-#EXTINF:-1, 睛彩青少HD（限免）
+#EXTINF:-1, 睛彩青少HD(限免)
 rtp://239.49.8.46:8000
 
-#EXTINF:-1, 睛彩广场舞HD（限免）
+#EXTINF:-1, 睛彩广场舞HD(限免)
 rtp://239.49.8.64:8000
 
 #EXTINF:-1, CGTN俄语HD
